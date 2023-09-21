@@ -1,0 +1,2142 @@
+[
+  {
+    "user_profile": [
+      {
+        "id": "db7db516-f054-43dd-bcc5-4f36181526d1",
+        "created_at": "2023-09-21T08:33:30.325Z",
+        "updated_at": "2023-09-20T22:59:21.544Z"
+      },
+      {
+        "id": "efce665d-11b1-492c-b87c-4675bed8bbbd",
+        "created_at": "2023-09-21T12:34:07.605Z",
+        "updated_at": "2023-09-20T21:36:11.536Z"
+      },
+      {
+        "id": "44aa05be-c248-437c-9704-c6f115962c3e",
+        "created_at": "2023-09-21T00:04:16.456Z",
+        "updated_at": "2023-09-21T17:13:24.281Z"
+      },
+      {
+        "id": "42eaea3f-eba9-4d9e-8a0a-5a41750caf1c",
+        "created_at": "2023-09-21T06:37:37.296Z",
+        "updated_at": "2023-09-20T22:21:52.026Z"
+      },
+      {
+        "id": "22781cf2-9c38-439f-bea4-37d4635e70c8",
+        "created_at": "2023-09-21T09:49:34.946Z",
+        "updated_at": "2023-09-20T22:58:23.080Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "dfdbc202-5282-499b-851a-6dc8b05515e3",
+        "created_at": "2023-09-21T02:26:51.258Z",
+        "updated_at": "2023-09-21T15:31:38.910Z"
+      },
+      {
+        "id": "1ea07def-1a8a-49af-ba52-a8013d46af0d",
+        "created_at": "2023-09-20T22:05:53.311Z",
+        "updated_at": "2023-09-21T15:43:37.087Z"
+      },
+      {
+        "id": "a13b57bc-47f8-4563-bdfe-c4772b95cc71",
+        "created_at": "2023-09-21T13:23:13.623Z",
+        "updated_at": "2023-09-20T22:42:18.665Z"
+      },
+      {
+        "id": "3a888fc6-a895-46f5-8e54-9daf9755b144",
+        "created_at": "2023-09-20T20:29:03.410Z",
+        "updated_at": "2023-09-21T17:11:41.880Z"
+      },
+      {
+        "id": "11984eb6-4189-4378-bcb4-a5afa041c96f",
+        "created_at": "2023-09-20T23:00:49.467Z",
+        "updated_at": "2023-09-21T07:09:46.463Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "fe184da4-c2ca-48ad-92fa-2ffff33bcc03",
+        "created_at": "2023-09-20T22:01:54.554Z",
+        "updated_at": "2023-09-21T11:17:14.844Z"
+      },
+      {
+        "id": "a05e815b-a54e-4378-83a8-3a7cfcee85f9",
+        "created_at": "2023-09-21T12:49:12.913Z",
+        "updated_at": "2023-09-21T01:39:53.886Z"
+      },
+      {
+        "id": "b8f173db-3fb0-469f-abe6-43c41d1130a0",
+        "created_at": "2023-09-21T08:10:19.549Z",
+        "updated_at": "2023-09-21T05:48:37.142Z"
+      },
+      {
+        "id": "db6565a1-9558-4b1b-8493-361506936ae4",
+        "created_at": "2023-09-21T13:47:19.521Z",
+        "updated_at": "2023-09-21T08:57:56.885Z"
+      },
+      {
+        "id": "994342b4-2077-4b02-acac-ac9a7a3ae256",
+        "created_at": "2023-09-21T17:31:05.755Z",
+        "updated_at": "2023-09-21T19:50:24.094Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "43eb0e43-4c70-4508-961f-5013230926fb",
+        "created_at": "2023-09-21T17:51:37.990Z",
+        "updated_at": "2023-09-20T22:30:25.142Z"
+      },
+      {
+        "id": "50caf7df-d276-4fdb-91a2-5b38f8d6aeb3",
+        "created_at": "2023-09-21T07:17:20.600Z",
+        "updated_at": "2023-09-21T13:59:21.014Z"
+      },
+      {
+        "id": "4490d2c7-e6a8-4372-9159-55a93434dc1e",
+        "created_at": "2023-09-21T09:19:24.620Z",
+        "updated_at": "2023-09-21T12:59:57.960Z"
+      },
+      {
+        "id": "e946be3e-6fb1-491f-be89-ef765923bb4d",
+        "created_at": "2023-09-21T16:21:11.094Z",
+        "updated_at": "2023-09-21T17:14:12.398Z"
+      },
+      {
+        "id": "425df7c7-20b5-4810-83b8-62895feadefa",
+        "created_at": "2023-09-20T20:18:29.261Z",
+        "updated_at": "2023-09-20T23:55:34.116Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "cd2becbe-74ef-406d-a065-fbc87bd85d75",
+        "created_at": "2023-09-21T18:31:51.948Z",
+        "updated_at": "2023-09-21T04:07:14.745Z",
+        "account_balance": 0.2047176850028336,
+        "account_type": "Savings",
+        "interest_rate": 0.3706017700023949,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "fd3b0a73-f4c1-4fc3-bb8e-1036f8906ec7",
+        "created_at": "2023-09-21T11:31:52.656Z",
+        "updated_at": "2023-09-21T17:57:06.479Z",
+        "account_balance": 0.9390530167147517,
+        "account_type": "Checking",
+        "interest_rate": 0.10354762361384928,
+        "account_number": "9876543210",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "4ef694bf-d5e5-4609-9e04-275106a131e2",
+        "created_at": "2023-09-21T07:19:49.687Z",
+        "updated_at": "2023-09-21T07:46:13.388Z",
+        "account_balance": 0.45736277801916003,
+        "account_type": "Investment",
+        "interest_rate": 0.1967261100653559,
+        "account_number": "5678901234",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "86dd69ed-72f4-4bde-9020-5082ca8d265e",
+        "created_at": "2023-09-21T04:53:26.761Z",
+        "updated_at": "2023-09-21T02:28:22.665Z",
+        "account_balance": 0.8052404306363314,
+        "account_type": "Business",
+        "interest_rate": 0.18765159510076046,
+        "account_number": "4321098765",
+        "account_status": "Closed",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "fe96b96c-e622-4a44-8f71-876c00550ff6",
+        "created_at": "2023-09-21T18:35:14.984Z",
+        "updated_at": "2023-09-21T16:15:09.116Z",
+        "account_balance": 0.7145711975172162,
+        "account_type": "Joint",
+        "interest_rate": 0.11175900348462164,
+        "account_number": "2468135790",
+        "account_status": "Pending",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "17917cd6-2368-4dc2-925c-8c61d7debd69",
+        "email": "Rick78@roq.tech",
+        "firstName": "Howell",
+        "lastName": "Boyer",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/904.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "42c40616-1633-45d7-9bce-d7c79bebb7ed",
+        "email": "Lindsey22@roq.tech",
+        "firstName": "Lennie",
+        "lastName": "Braun",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/614.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0acfd757-8aaa-4b9d-9920-ac2a26c82380",
+        "email": "Aric.Beahan27@roq.tech",
+        "firstName": "Annabelle",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/22720482",
+        "tenantId": null
+      },
+      {
+        "reference": "5826206e-e289-402a-bf07-d85fa25ed97e",
+        "email": "Broderick.Williamson7@roq.tech",
+        "firstName": "Khalil",
+        "lastName": "Douglas",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/714.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "84c7a526-5f95-4e0a-a6ef-8d8a27c8a411",
+        "email": "Francis_Muller54@roq.tech",
+        "firstName": "Jessy",
+        "lastName": "Beier",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/80872183",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "63933434-a0fc-4517-8a81-c34706177860",
+        "created_at": "2023-09-21T02:00:56.400Z",
+        "updated_at": "2023-09-21T01:52:48.910Z"
+      },
+      {
+        "id": "6e3630a6-8158-4e4c-9ca7-c92ed5f83ed2",
+        "created_at": "2023-09-20T22:00:44.990Z",
+        "updated_at": "2023-09-20T22:28:54.103Z"
+      },
+      {
+        "id": "b8ae1a18-acdd-4037-b281-8a88a34d471f",
+        "created_at": "2023-09-21T08:26:52.526Z",
+        "updated_at": "2023-09-20T23:05:55.382Z"
+      },
+      {
+        "id": "8b02b55a-2eec-41cf-a115-b2ede481af90",
+        "created_at": "2023-09-21T11:31:00.963Z",
+        "updated_at": "2023-09-21T11:39:59.753Z"
+      },
+      {
+        "id": "209fc860-53c2-46a9-afec-4abd313f7d9e",
+        "created_at": "2023-09-20T21:44:49.998Z",
+        "updated_at": "2023-09-20T21:06:25.915Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "6d42cec4-6ecd-4274-a885-5afda8f9f7cc",
+        "created_at": "2023-09-21T01:13:00.272Z",
+        "updated_at": "2023-09-21T17:14:04.010Z"
+      },
+      {
+        "id": "ec96b1b5-1b36-4758-aabe-a929f644c2e6",
+        "created_at": "2023-09-21T12:28:28.798Z",
+        "updated_at": "2023-09-20T21:30:41.533Z"
+      },
+      {
+        "id": "4dfd2cd2-732c-4a50-b9af-ffae7ec39695",
+        "created_at": "2023-09-21T14:55:31.650Z",
+        "updated_at": "2023-09-21T04:49:41.302Z"
+      },
+      {
+        "id": "e8d8d764-26bb-424e-84a7-f24dacdb338f",
+        "created_at": "2023-09-21T01:40:40.330Z",
+        "updated_at": "2023-09-20T23:48:33.163Z"
+      },
+      {
+        "id": "4228e3b5-4a2f-4a81-9315-ed8b5b835eef",
+        "created_at": "2023-09-21T05:59:56.912Z",
+        "updated_at": "2023-09-21T10:22:32.964Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "85e3f4b1-7600-4f11-81ce-1e5601a292c0",
+        "created_at": "2023-09-21T16:00:49.734Z",
+        "updated_at": "2023-09-21T01:23:38.328Z"
+      },
+      {
+        "id": "18e9a2b6-0569-4b71-aa78-e2e3d74318af",
+        "created_at": "2023-09-21T02:30:12.642Z",
+        "updated_at": "2023-09-21T13:56:33.928Z"
+      },
+      {
+        "id": "d6d8e601-8af0-49eb-98b1-fc7b35d8e9ad",
+        "created_at": "2023-09-21T00:36:22.575Z",
+        "updated_at": "2023-09-21T07:11:14.914Z"
+      },
+      {
+        "id": "b85e2aab-6cdf-4927-9f5a-1bcbfc277e12",
+        "created_at": "2023-09-21T10:11:12.983Z",
+        "updated_at": "2023-09-21T07:11:22.510Z"
+      },
+      {
+        "id": "5516d121-d90e-40f2-bf56-8ea0f234a1e7",
+        "created_at": "2023-09-21T09:24:04.278Z",
+        "updated_at": "2023-09-21T10:50:40.871Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "c7034b79-1af1-4cce-948f-35c51ac6701d",
+        "created_at": "2023-09-20T21:16:58.863Z",
+        "updated_at": "2023-09-21T13:03:32.917Z"
+      },
+      {
+        "id": "436df692-da18-473d-8c19-e39f899549fa",
+        "created_at": "2023-09-21T03:06:52.107Z",
+        "updated_at": "2023-09-21T03:10:26.999Z"
+      },
+      {
+        "id": "cef74b63-7085-401d-a8ac-900f279ce081",
+        "created_at": "2023-09-21T04:52:31.631Z",
+        "updated_at": "2023-09-21T10:07:58.232Z"
+      },
+      {
+        "id": "15d6dcba-3107-4abc-bb91-b79fdedf5715",
+        "created_at": "2023-09-20T23:01:37.228Z",
+        "updated_at": "2023-09-21T17:36:21.950Z"
+      },
+      {
+        "id": "82ec186d-d813-4730-959a-91b95dd85b9b",
+        "created_at": "2023-09-21T01:13:23.221Z",
+        "updated_at": "2023-09-21T09:53:46.565Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "fb1a93fc-b0b3-4f18-83f0-e527efbfcd30",
+        "created_at": "2023-09-21T10:41:51.902Z",
+        "updated_at": "2023-09-20T23:25:30.742Z",
+        "account_balance": 0.28542320942506194,
+        "account_type": "Savings",
+        "interest_rate": 0.6715373238548636,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "6f393862-d966-4d91-afde-6c4686b66e09",
+        "created_at": "2023-09-20T23:59:46.399Z",
+        "updated_at": "2023-09-21T12:19:46.825Z",
+        "account_balance": 0.584430401911959,
+        "account_type": "Checking",
+        "interest_rate": 0.2834601840004325,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "ca421b97-b6d0-4f2c-b70b-a0de704b2465",
+        "created_at": "2023-09-21T17:11:19.698Z",
+        "updated_at": "2023-09-21T01:12:42.921Z",
+        "account_balance": 0.5814896048977971,
+        "account_type": "Business",
+        "interest_rate": 0.6639463128522038,
+        "account_number": "2468135790",
+        "account_status": "Frozen",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "779dcdb1-a910-4a9d-a50f-d5c4c4a9659c",
+        "created_at": "2023-09-21T19:54:03.512Z",
+        "updated_at": "2023-09-21T08:23:32.360Z",
+        "account_balance": 0.4014844996854663,
+        "account_type": "Investment",
+        "interest_rate": 0.8727371292188764,
+        "account_number": "1357924680",
+        "account_status": "Closed",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "927d04bf-e6c0-43b4-96de-877e1b78ccdc",
+        "created_at": "2023-09-21T19:21:03.785Z",
+        "updated_at": "2023-09-21T08:53:51.115Z",
+        "account_balance": 0.7173614169005305,
+        "account_type": "Joint",
+        "interest_rate": 0.1606685509905219,
+        "account_number": "9876543210",
+        "account_status": "Under Review",
+        "account_owner": "Robert Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8547c12f-0c44-47df-a912-be54c67711b0",
+        "email": "Zora.Wilderman@roq.tech",
+        "firstName": "Tabitha",
+        "lastName": "Fahey-Stamm",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/84135665",
+        "tenantId": null
+      },
+      {
+        "reference": "40e45d20-a9e2-4a3b-98ea-6752b469329d",
+        "email": "Eudora86@roq.tech",
+        "firstName": "Ryder",
+        "lastName": "Keeling",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/4104296",
+        "tenantId": null
+      },
+      {
+        "reference": "6e1bc46a-5c4a-4401-b93c-5a0674a0961b",
+        "email": "Eileen17@roq.tech",
+        "firstName": "Fanny",
+        "lastName": "Balistreri",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/327.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "672d72f0-52b3-4048-9efb-d2f0f2e941ed",
+        "email": "Rex_Predovic@roq.tech",
+        "firstName": "Monty",
+        "lastName": "Leuschke",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/99103611",
+        "tenantId": null
+      },
+      {
+        "reference": "67087719-38ce-41e6-abac-60eec9e94887",
+        "email": "Gino0@roq.tech",
+        "firstName": "Charley",
+        "lastName": "Mills",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1183.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "5f01fbb6-4df3-48e2-be37-c0fa6daa0a97",
+        "created_at": "2023-09-21T13:04:07.379Z",
+        "updated_at": "2023-09-21T17:50:02.872Z"
+      },
+      {
+        "id": "02ccd48f-0466-4c8a-bb31-defa7980a919",
+        "created_at": "2023-09-21T07:55:44.717Z",
+        "updated_at": "2023-09-20T23:36:31.735Z"
+      },
+      {
+        "id": "6ad97e94-5840-4bf9-a4e7-e2638da2d62f",
+        "created_at": "2023-09-20T20:12:39.189Z",
+        "updated_at": "2023-09-21T12:27:00.348Z"
+      },
+      {
+        "id": "0598f17f-c026-419c-8e36-e8bfc6f8f2ad",
+        "created_at": "2023-09-21T14:35:06.779Z",
+        "updated_at": "2023-09-21T18:49:42.534Z"
+      },
+      {
+        "id": "d456fa10-b437-4fc7-9b55-aed45eda9aa0",
+        "created_at": "2023-09-21T05:29:42.266Z",
+        "updated_at": "2023-09-21T17:50:31.154Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "f11848c2-a46e-4664-a8c6-d0a63ea036b2",
+        "created_at": "2023-09-21T09:22:29.858Z",
+        "updated_at": "2023-09-21T10:58:34.040Z"
+      },
+      {
+        "id": "e9937127-7be2-42d2-96ea-8ff4e6b01874",
+        "created_at": "2023-09-21T18:22:14.303Z",
+        "updated_at": "2023-09-20T23:32:14.964Z"
+      },
+      {
+        "id": "0e9827ae-b8f5-4f88-963f-431396b17fca",
+        "created_at": "2023-09-21T11:06:37.515Z",
+        "updated_at": "2023-09-21T15:17:48.262Z"
+      },
+      {
+        "id": "06ff32c4-b958-4916-af7d-4eeb27c465a5",
+        "created_at": "2023-09-21T01:36:00.927Z",
+        "updated_at": "2023-09-20T23:11:38.618Z"
+      },
+      {
+        "id": "e3015dae-cd27-4146-a999-3376cb57baa0",
+        "created_at": "2023-09-21T03:58:05.723Z",
+        "updated_at": "2023-09-21T00:32:51.382Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "35964399-28d5-4eae-b023-a7f874afc9f6",
+        "created_at": "2023-09-21T05:26:13.870Z",
+        "updated_at": "2023-09-21T18:45:55.847Z"
+      },
+      {
+        "id": "63e567b6-86f0-487d-bdf0-0b6129c02c09",
+        "created_at": "2023-09-21T06:03:12.229Z",
+        "updated_at": "2023-09-21T11:25:49.066Z"
+      },
+      {
+        "id": "f1a6bd10-689c-4eff-a898-f15cdfa2c35a",
+        "created_at": "2023-09-21T05:45:33.166Z",
+        "updated_at": "2023-09-20T22:33:10.820Z"
+      },
+      {
+        "id": "175162b4-d8d5-472c-a8c5-9243de071476",
+        "created_at": "2023-09-21T16:33:01.760Z",
+        "updated_at": "2023-09-21T01:25:19.034Z"
+      },
+      {
+        "id": "a1937584-2f79-41d4-b4a4-907690a26f21",
+        "created_at": "2023-09-21T04:25:00.135Z",
+        "updated_at": "2023-09-21T15:14:11.988Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "0f99a5df-833e-4529-be46-694176305dbc",
+        "created_at": "2023-09-20T23:26:52.237Z",
+        "updated_at": "2023-09-21T02:56:27.959Z"
+      },
+      {
+        "id": "1b437984-08d1-45f4-bf91-ba9dff65d1a8",
+        "created_at": "2023-09-21T10:05:02.386Z",
+        "updated_at": "2023-09-21T12:24:12.724Z"
+      },
+      {
+        "id": "633890e0-6fbf-49bb-9095-fc96dde195ab",
+        "created_at": "2023-09-21T13:34:43.370Z",
+        "updated_at": "2023-09-21T10:06:46.358Z"
+      },
+      {
+        "id": "f5934850-177d-4792-8b1b-bd377c32a9bf",
+        "created_at": "2023-09-21T15:44:51.921Z",
+        "updated_at": "2023-09-21T16:34:41.452Z"
+      },
+      {
+        "id": "28395b67-5e11-42f4-ba46-b80e5f168f9c",
+        "created_at": "2023-09-21T18:41:02.158Z",
+        "updated_at": "2023-09-21T05:03:57.722Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "c04e96f7-d768-429a-8933-bbcf94145284",
+        "created_at": "2023-09-21T09:31:53.953Z",
+        "updated_at": "2023-09-21T07:05:41.489Z",
+        "account_balance": 0.3963325235527009,
+        "account_type": "Savings",
+        "interest_rate": 0.9732623365707695,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "681da4cd-33d7-4f83-b053-95939d632b22",
+        "created_at": "2023-09-21T16:49:47.123Z",
+        "updated_at": "2023-09-21T05:15:07.955Z",
+        "account_balance": 0.005194272380322218,
+        "account_type": "Checking",
+        "interest_rate": 0.787222484825179,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "f67e8a98-a3f8-4c59-b0a9-2306c0f7a7f3",
+        "created_at": "2023-09-21T09:22:17.506Z",
+        "updated_at": "2023-09-21T16:19:02.810Z",
+        "account_balance": 0.36529953381977975,
+        "account_type": "Business",
+        "interest_rate": 0.34750626143068075,
+        "account_number": "2468135790",
+        "account_status": "Frozen",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "ddfe9f91-b024-45e8-94cb-3cc0d4196582",
+        "created_at": "2023-09-20T23:45:53.753Z",
+        "updated_at": "2023-09-21T00:49:43.179Z",
+        "account_balance": 0.6759012003894895,
+        "account_type": "Investment",
+        "interest_rate": 0.7419934270437807,
+        "account_number": "1357924680",
+        "account_status": "Closed",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "98fa244b-1351-4fea-840b-dd47a7eaa85e",
+        "created_at": "2023-09-21T14:38:44.432Z",
+        "updated_at": "2023-09-21T19:35:22.399Z",
+        "account_balance": 0.42609943449497223,
+        "account_type": "Joint",
+        "interest_rate": 0.298983785090968,
+        "account_number": "9876543210",
+        "account_status": "Pending",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "f7724c65-5e42-47e1-938e-853950842ed6",
+        "email": "Phyllis.Bauch@roq.tech",
+        "firstName": "Aileen",
+        "lastName": "Abernathy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/551.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a0fb7753-6bf1-43d7-b67d-7b25aa598677",
+        "email": "Eliseo51@roq.tech",
+        "firstName": "Kellie",
+        "lastName": "Willms",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/286.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "227f37c4-c6db-4fa3-967b-dc6ecba8bbf1",
+        "email": "Theodore14@roq.tech",
+        "firstName": "Andreane",
+        "lastName": "Schneider",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/73431182",
+        "tenantId": null
+      },
+      {
+        "reference": "d4aa6340-9664-41b5-8a76-4160b49d04e3",
+        "email": "Scotty9@roq.tech",
+        "firstName": "Elmo",
+        "lastName": "Runolfsdottir",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/37754301",
+        "tenantId": null
+      },
+      {
+        "reference": "8aa258f2-e8b1-43bb-bd75-ec37e7fb7cd8",
+        "email": "Barry_Toy@roq.tech",
+        "firstName": "Libby",
+        "lastName": "Gusikowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/61160786",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "4838b5ad-ca36-4716-8670-9993273aae8d",
+        "created_at": "2023-09-21T17:14:47.078Z",
+        "updated_at": "2023-09-21T05:51:49.614Z"
+      },
+      {
+        "id": "a0f28651-3320-463f-a163-4c28454c14b8",
+        "created_at": "2023-09-21T04:24:44.439Z",
+        "updated_at": "2023-09-21T12:16:12.661Z"
+      },
+      {
+        "id": "316935b3-f87e-45b6-8f3e-39456f4f3c99",
+        "created_at": "2023-09-21T15:13:14.130Z",
+        "updated_at": "2023-09-21T11:25:19.165Z"
+      },
+      {
+        "id": "3e939eb2-1292-4ea9-9b9c-a8b8f0f3edc6",
+        "created_at": "2023-09-21T02:53:45.425Z",
+        "updated_at": "2023-09-21T14:04:40.931Z"
+      },
+      {
+        "id": "a3efd0b1-64e1-4219-8535-03f7b2ef00ec",
+        "created_at": "2023-09-21T03:40:22.785Z",
+        "updated_at": "2023-09-21T18:25:15.191Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "005387b0-d25b-4f02-bcc7-27b99be14c60",
+        "created_at": "2023-09-20T23:52:48.538Z",
+        "updated_at": "2023-09-21T04:55:25.930Z"
+      },
+      {
+        "id": "ab75bb95-91fc-48b7-8c97-d8d490c8efc5",
+        "created_at": "2023-09-21T19:40:02.156Z",
+        "updated_at": "2023-09-20T21:37:20.172Z"
+      },
+      {
+        "id": "6797e6bd-c6de-4820-b832-e71ff802eb57",
+        "created_at": "2023-09-21T01:46:52.601Z",
+        "updated_at": "2023-09-21T17:00:31.251Z"
+      },
+      {
+        "id": "ab75671c-d362-4db7-bd4d-a177c48df425",
+        "created_at": "2023-09-21T19:04:31.146Z",
+        "updated_at": "2023-09-21T05:51:36.396Z"
+      },
+      {
+        "id": "83596a93-c3b5-4825-97a1-e7aab430ad81",
+        "created_at": "2023-09-21T06:32:44.487Z",
+        "updated_at": "2023-09-21T11:09:06.733Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "d5ffa025-642f-4f14-988e-cf779af1a398",
+        "created_at": "2023-09-21T12:14:56.791Z",
+        "updated_at": "2023-09-21T10:35:42.100Z"
+      },
+      {
+        "id": "ee724bb1-83dd-4d9f-b118-f2868eec87c6",
+        "created_at": "2023-09-21T00:20:38.835Z",
+        "updated_at": "2023-09-21T07:09:52.063Z"
+      },
+      {
+        "id": "b533d140-673d-4c51-9cf9-2d31765bb8fe",
+        "created_at": "2023-09-21T02:56:24.390Z",
+        "updated_at": "2023-09-21T00:41:15.419Z"
+      },
+      {
+        "id": "c7410808-f65f-449e-8317-7e5906efc051",
+        "created_at": "2023-09-21T02:10:17.744Z",
+        "updated_at": "2023-09-21T05:31:59.136Z"
+      },
+      {
+        "id": "d07234ec-78f3-4f28-a6ed-2f58806956e1",
+        "created_at": "2023-09-20T20:07:55.937Z",
+        "updated_at": "2023-09-21T05:51:53.614Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "db20124f-998f-4e6d-a445-e4c724dd3188",
+        "created_at": "2023-09-21T06:18:53.392Z",
+        "updated_at": "2023-09-20T21:31:45.411Z"
+      },
+      {
+        "id": "fccdc1e6-4e9a-4aed-a0dd-ef2970cda9a4",
+        "created_at": "2023-09-21T17:00:52.698Z",
+        "updated_at": "2023-09-21T18:34:38.846Z"
+      },
+      {
+        "id": "509e1eec-d20f-459f-846f-dca412a97b31",
+        "created_at": "2023-09-21T18:09:28.096Z",
+        "updated_at": "2023-09-21T04:19:10.095Z"
+      },
+      {
+        "id": "b1547a1c-8c89-49ce-818d-f4bd2e69505d",
+        "created_at": "2023-09-21T02:07:40.473Z",
+        "updated_at": "2023-09-21T01:46:05.012Z"
+      },
+      {
+        "id": "42ae85f6-495a-4e3c-a35b-26e076d6496c",
+        "created_at": "2023-09-21T07:05:53.403Z",
+        "updated_at": "2023-09-21T12:49:37.780Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "8d878f62-fde7-42c8-98f8-5ee3d3dff627",
+        "created_at": "2023-09-21T01:20:59.022Z",
+        "updated_at": "2023-09-21T09:26:24.524Z",
+        "account_balance": 0.2753352844156325,
+        "account_type": "Savings",
+        "interest_rate": 0.9098821675870568,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "4d849fcf-b1c7-4dd3-b509-20af3510699d",
+        "created_at": "2023-09-21T01:08:21.131Z",
+        "updated_at": "2023-09-21T07:37:22.973Z",
+        "account_balance": 0.4798927688971162,
+        "account_type": "Checking",
+        "interest_rate": 0.14900301164016128,
+        "account_number": "9876543210",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "0cdbaa5a-a9f0-4b90-8504-48fc98e74682",
+        "created_at": "2023-09-21T06:55:01.341Z",
+        "updated_at": "2023-09-21T09:01:10.317Z",
+        "account_balance": 0.9697431055828929,
+        "account_type": "Business",
+        "interest_rate": 0.5479579374659806,
+        "account_number": "2468135790",
+        "account_status": "Frozen",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "803b590f-64bb-4fda-94cb-cf3b0ca1337c",
+        "created_at": "2023-09-21T01:41:56.604Z",
+        "updated_at": "2023-09-21T06:26:17.221Z",
+        "account_balance": 0.59780163760297,
+        "account_type": "Investment",
+        "interest_rate": 0.07576102390885353,
+        "account_number": "1357924680",
+        "account_status": "Closed",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "769035e2-dd17-4ca7-abaa-cfef4c6e2446",
+        "created_at": "2023-09-21T08:10:40.108Z",
+        "updated_at": "2023-09-21T11:25:58.056Z",
+        "account_balance": 0.8036768042948097,
+        "account_type": "Joint",
+        "interest_rate": 0.2645774856209755,
+        "account_number": "8642097531",
+        "account_status": "Blocked",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "6e78a809-3eeb-4ae6-ad2e-76794d3a662d",
+        "email": "Reece.Ryan45@roq.tech",
+        "firstName": "Theo",
+        "lastName": "Ullrich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/34390951",
+        "tenantId": null
+      },
+      {
+        "reference": "a9414317-9636-45f6-8562-9fc56b71ab0a",
+        "email": "Jayda89@roq.tech",
+        "firstName": "Dianna",
+        "lastName": "McKenzie",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/591.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "230a50a8-9b8a-4731-bee6-aea928f77845",
+        "email": "Kellen6@roq.tech",
+        "firstName": "Brenden",
+        "lastName": "O'Keefe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/434.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "6bf4eb47-76e9-4fd5-ba4b-1192a92ba5b0",
+        "email": "Gloria15@roq.tech",
+        "firstName": "Edwardo",
+        "lastName": "Brakus",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/348.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "bdafaff5-16f4-4ca6-9254-83d1e093230c",
+        "email": "Jean.Jones@roq.tech",
+        "firstName": "Nelson",
+        "lastName": "Schiller",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1138.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "63d04d93-d414-4096-b560-ba2a1246cc93",
+        "created_at": "2023-09-21T04:36:29.118Z",
+        "updated_at": "2023-09-21T12:35:10.977Z"
+      },
+      {
+        "id": "8a08240b-5749-49ef-8421-3c017b9673b6",
+        "created_at": "2023-09-21T10:14:31.299Z",
+        "updated_at": "2023-09-21T07:49:08.449Z"
+      },
+      {
+        "id": "16ea93f2-c9b8-46c4-8611-cfcdb9b118d2",
+        "created_at": "2023-09-21T05:45:25.906Z",
+        "updated_at": "2023-09-21T02:49:57.625Z"
+      },
+      {
+        "id": "afd5fd93-2f39-4098-abd1-46f50041fde9",
+        "created_at": "2023-09-20T21:35:31.307Z",
+        "updated_at": "2023-09-21T01:29:31.382Z"
+      },
+      {
+        "id": "059fddaf-24da-4a73-bfb1-f00e532abfe4",
+        "created_at": "2023-09-21T14:16:17.203Z",
+        "updated_at": "2023-09-21T13:22:00.048Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "bd5cebe1-7186-49df-8fed-5319ee9da31b",
+        "created_at": "2023-09-21T14:50:23.881Z",
+        "updated_at": "2023-09-21T11:24:47.654Z"
+      },
+      {
+        "id": "1871aba6-737c-4743-b8b6-b9f438b64087",
+        "created_at": "2023-09-21T11:12:29.135Z",
+        "updated_at": "2023-09-21T12:56:48.476Z"
+      },
+      {
+        "id": "1d389afb-0aed-4bfd-b51d-3ce85918ff5f",
+        "created_at": "2023-09-21T15:25:11.198Z",
+        "updated_at": "2023-09-20T22:11:31.688Z"
+      },
+      {
+        "id": "7321d2de-d4e8-4e0d-a025-9b349ed88327",
+        "created_at": "2023-09-21T17:02:39.955Z",
+        "updated_at": "2023-09-21T10:21:46.756Z"
+      },
+      {
+        "id": "87656dc3-4434-49d2-81b8-355d41bb63ba",
+        "created_at": "2023-09-20T23:07:39.354Z",
+        "updated_at": "2023-09-21T03:33:13.648Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "b62897ea-cf4e-4159-a8af-c4dfed15186a",
+        "created_at": "2023-09-21T07:42:53.834Z",
+        "updated_at": "2023-09-21T09:39:06.313Z"
+      },
+      {
+        "id": "fe482c70-a4b6-466d-8783-7339553b8d2c",
+        "created_at": "2023-09-21T07:43:29.725Z",
+        "updated_at": "2023-09-20T23:23:19.910Z"
+      },
+      {
+        "id": "800566a6-06fe-42e3-874e-2b056016fdf9",
+        "created_at": "2023-09-20T20:07:27.268Z",
+        "updated_at": "2023-09-21T03:12:49.427Z"
+      },
+      {
+        "id": "b4a1ef0e-b481-4fdf-a562-e72f55fecf73",
+        "created_at": "2023-09-21T10:09:48.328Z",
+        "updated_at": "2023-09-21T01:26:34.684Z"
+      },
+      {
+        "id": "51a2f62b-673c-450e-b90f-2efb81a825bd",
+        "created_at": "2023-09-21T14:00:59.826Z",
+        "updated_at": "2023-09-21T17:21:28.805Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "aebad811-6088-487c-bef8-51a40347d4db",
+        "created_at": "2023-09-21T03:57:46.776Z",
+        "updated_at": "2023-09-21T02:59:54.988Z"
+      },
+      {
+        "id": "1b667499-220b-4b17-8cb1-db9548728fef",
+        "created_at": "2023-09-21T07:55:46.153Z",
+        "updated_at": "2023-09-20T23:22:39.169Z"
+      },
+      {
+        "id": "cbf8dd00-7e7d-4d6f-bd2d-5fcc0574cdf6",
+        "created_at": "2023-09-21T19:38:14.857Z",
+        "updated_at": "2023-09-21T02:07:05.182Z"
+      },
+      {
+        "id": "6baec8ed-bbef-436d-a83c-a3cac2821208",
+        "created_at": "2023-09-21T11:56:01.106Z",
+        "updated_at": "2023-09-21T03:52:00.507Z"
+      },
+      {
+        "id": "a9ac5668-d508-443c-995f-7c5c59742fb0",
+        "created_at": "2023-09-21T09:48:39.003Z",
+        "updated_at": "2023-09-20T23:36:36.730Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "275f3b8c-ed5e-4edf-b236-eba7724cfe4d",
+        "created_at": "2023-09-21T00:51:55.042Z",
+        "updated_at": "2023-09-21T19:08:36.723Z",
+        "account_balance": 0.8707510060630739,
+        "account_type": "Savings",
+        "interest_rate": 0.4165094487834722,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "d1d26b4d-e249-46c2-8156-c5b09dd594e3",
+        "created_at": "2023-09-21T05:42:54.884Z",
+        "updated_at": "2023-09-21T12:19:46.682Z",
+        "account_balance": 0.3530360960867256,
+        "account_type": "Checking",
+        "interest_rate": 0.9890570288989693,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "cc02e7ef-1be8-4555-b2da-ec08fb87c981",
+        "created_at": "2023-09-21T09:17:25.059Z",
+        "updated_at": "2023-09-21T10:18:17.722Z",
+        "account_balance": 0.48854864411987364,
+        "account_type": "Investment",
+        "interest_rate": 0.6317967234645039,
+        "account_number": "2468135790",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "f2983ed5-ab45-432d-b6ad-63a91657c233",
+        "created_at": "2023-09-21T13:58:24.682Z",
+        "updated_at": "2023-09-21T08:33:40.354Z",
+        "account_balance": 0.14358815853483975,
+        "account_type": "Business",
+        "interest_rate": 0.6345064097549766,
+        "account_number": "1357924680",
+        "account_status": "Pending",
+        "account_owner": "Sarah Wilson"
+      },
+      {
+        "id": "4fc64d33-edb4-44fa-b4d4-b50f9c4f8f24",
+        "created_at": "2023-09-21T03:21:59.978Z",
+        "updated_at": "2023-09-21T06:35:39.635Z",
+        "account_balance": 0.9043530665803701,
+        "account_type": "Joint",
+        "interest_rate": 0.6091666535940021,
+        "account_number": "9876543210",
+        "account_status": "Closed",
+        "account_owner": "Robert Johnson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "8635753c-2966-498d-b966-4986497ca04e",
+        "email": "Weldon_Okuneva@roq.tech",
+        "firstName": "Keenan",
+        "lastName": "Hoppe",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1235.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "ccebfb71-d96b-41a7-8a39-c91b2590554f",
+        "email": "Etha98@roq.tech",
+        "firstName": "Juliet",
+        "lastName": "McClure",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/874.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "af05459f-506e-4746-9e2d-b774e50ba9d7",
+        "email": "Eulah_Paucek25@roq.tech",
+        "firstName": "Jany",
+        "lastName": "Herman",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/338.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "7c75f4f4-3cc0-4ce0-bce7-6dbe2c47f0d3",
+        "email": "Lucile.Sauer@roq.tech",
+        "firstName": "Ernest",
+        "lastName": "Conn",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35417052",
+        "tenantId": null
+      },
+      {
+        "reference": "f041ff2b-4559-4e85-b8aa-c1c3b27e773a",
+        "email": "Conner.Ruecker@roq.tech",
+        "firstName": "Bonnie",
+        "lastName": "Jakubowski",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/78688820",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "908aac8c-257d-49af-b9a7-421415b704b3",
+        "created_at": "2023-09-21T18:49:25.834Z",
+        "updated_at": "2023-09-20T20:43:14.621Z"
+      },
+      {
+        "id": "eb240f15-c91a-4d50-ad7f-389fb88bee2a",
+        "created_at": "2023-09-21T05:56:08.209Z",
+        "updated_at": "2023-09-21T16:09:04.957Z"
+      },
+      {
+        "id": "7a1dde7a-a6ed-4899-aceb-ed36ee31df99",
+        "created_at": "2023-09-21T02:06:30.708Z",
+        "updated_at": "2023-09-21T16:12:55.772Z"
+      },
+      {
+        "id": "ef6c9094-3ce0-40f8-8029-36945a53b719",
+        "created_at": "2023-09-21T08:27:09.359Z",
+        "updated_at": "2023-09-21T09:14:39.077Z"
+      },
+      {
+        "id": "489806d4-efd0-4efc-be1e-7f468dbfa091",
+        "created_at": "2023-09-21T18:23:35.079Z",
+        "updated_at": "2023-09-21T15:12:22.509Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "d9afd412-518d-4fe7-b5b2-08aef5f9d707",
+        "created_at": "2023-09-21T14:00:59.622Z",
+        "updated_at": "2023-09-21T15:51:43.020Z"
+      },
+      {
+        "id": "835edf48-26da-4c4f-9f4e-e2a2df6886fe",
+        "created_at": "2023-09-20T21:09:35.977Z",
+        "updated_at": "2023-09-20T21:23:55.616Z"
+      },
+      {
+        "id": "36e48737-64ff-4c62-b505-d9dfa2cf1548",
+        "created_at": "2023-09-21T08:35:16.782Z",
+        "updated_at": "2023-09-20T22:34:22.466Z"
+      },
+      {
+        "id": "bdb7ccaf-b8bd-4dba-96fd-e1a8d1f1a5b6",
+        "created_at": "2023-09-21T01:32:41.172Z",
+        "updated_at": "2023-09-20T21:42:48.884Z"
+      },
+      {
+        "id": "8bd23a31-7f24-4e4b-9b29-f3f89cf66bc2",
+        "created_at": "2023-09-20T23:25:07.210Z",
+        "updated_at": "2023-09-21T00:23:06.378Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "ef189076-3e10-4a04-9123-868153de5c6f",
+        "created_at": "2023-09-21T03:35:07.904Z",
+        "updated_at": "2023-09-20T20:27:11.336Z"
+      },
+      {
+        "id": "f08b86fe-a599-40ea-ab31-394b2eac51e0",
+        "created_at": "2023-09-21T18:35:46.685Z",
+        "updated_at": "2023-09-21T17:19:15.230Z"
+      },
+      {
+        "id": "9b15dc8c-cdff-4dee-9ff7-b3aa7ff72391",
+        "created_at": "2023-09-20T20:14:28.191Z",
+        "updated_at": "2023-09-21T00:51:19.617Z"
+      },
+      {
+        "id": "64d40e70-4fa7-48bd-bc8d-b94444474f21",
+        "created_at": "2023-09-21T14:30:03.592Z",
+        "updated_at": "2023-09-21T18:04:35.625Z"
+      },
+      {
+        "id": "b8a268da-1c7c-4955-b7da-7fce57cbccb1",
+        "created_at": "2023-09-21T14:20:32.215Z",
+        "updated_at": "2023-09-21T06:14:04.207Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "59ac2b39-4ab5-43f1-9265-cd4f27a2aff3",
+        "created_at": "2023-09-21T10:03:33.467Z",
+        "updated_at": "2023-09-21T03:09:28.503Z"
+      },
+      {
+        "id": "1ed5c27f-3b03-49b9-bbae-1dd33a63f593",
+        "created_at": "2023-09-21T16:04:40.073Z",
+        "updated_at": "2023-09-21T16:29:15.914Z"
+      },
+      {
+        "id": "eb42a58d-2bbf-4714-b915-70c594679b7c",
+        "created_at": "2023-09-21T06:31:42.227Z",
+        "updated_at": "2023-09-21T08:13:52.763Z"
+      },
+      {
+        "id": "b1b10845-b6cd-4541-89e0-10cb384a0884",
+        "created_at": "2023-09-21T07:28:49.385Z",
+        "updated_at": "2023-09-20T21:01:08.239Z"
+      },
+      {
+        "id": "7d14ff77-371e-4b47-9a4d-f1ce007271de",
+        "created_at": "2023-09-21T08:51:05.804Z",
+        "updated_at": "2023-09-21T11:16:57.743Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "6f5036f4-661b-44ed-b8b7-ac37969ab0c0",
+        "created_at": "2023-09-20T23:38:35.898Z",
+        "updated_at": "2023-09-21T06:07:15.675Z",
+        "account_balance": 0.391182652907446,
+        "account_type": "Savings",
+        "interest_rate": 0.31302926572971046,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "258e37e8-adc2-4575-aefa-fff6a00dab53",
+        "created_at": "2023-09-20T21:59:36.525Z",
+        "updated_at": "2023-09-21T11:14:09.443Z",
+        "account_balance": 0.7219339471776038,
+        "account_type": "Checking",
+        "interest_rate": 0.07485674531199038,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "ed0958f2-d659-4501-a9c6-8aadaa7593a8",
+        "created_at": "2023-09-21T12:37:30.337Z",
+        "updated_at": "2023-09-21T13:17:08.391Z",
+        "account_balance": 0.9824837751220912,
+        "account_type": "Investment",
+        "interest_rate": 0.6125645565334707,
+        "account_number": "2468135790",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "5c5dbeb6-614d-4332-a1d9-c308e7abd220",
+        "created_at": "2023-09-21T02:20:05.625Z",
+        "updated_at": "2023-09-21T13:43:17.286Z",
+        "account_balance": 0.8473851587623358,
+        "account_type": "Business",
+        "interest_rate": 0.8820300416555256,
+        "account_number": "1357924680",
+        "account_status": "Closed",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "18456839-1100-4f38-b563-0e926f3d72e2",
+        "created_at": "2023-09-21T02:02:51.480Z",
+        "updated_at": "2023-09-21T09:42:48.614Z",
+        "account_balance": 0.598677477100864,
+        "account_type": "Joint",
+        "interest_rate": 0.9785416394006461,
+        "account_number": "9876543210",
+        "account_status": "Pending",
+        "account_owner": "Robert Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "adab7278-74d7-4e6a-8a69-6f2a9eae767d",
+        "email": "Leta.McGlynn@roq.tech",
+        "firstName": "Jermain",
+        "lastName": "Carter-Zulauf",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/100.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "0897b776-9340-4220-bff9-23fdf3a17d49",
+        "email": "Rory_Gutkowski37@roq.tech",
+        "firstName": "Mariela",
+        "lastName": "Ritchie-Harber",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/63013496",
+        "tenantId": null
+      },
+      {
+        "reference": "3f9cebea-4c94-4e6f-8e99-2291e8d10366",
+        "email": "Emil35@roq.tech",
+        "firstName": "Sasha",
+        "lastName": "Friesen",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/35090981",
+        "tenantId": null
+      },
+      {
+        "reference": "0af15bef-96ac-4deb-b053-8fb9bac59b55",
+        "email": "Trevion_Corkery-Conn@roq.tech",
+        "firstName": "Mitchell",
+        "lastName": "Cassin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/6606145",
+        "tenantId": null
+      },
+      {
+        "reference": "4e774f78-6b79-4d95-93a2-728975777820",
+        "email": "Ladarius94@roq.tech",
+        "firstName": "Maximus",
+        "lastName": "Johns",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1192.jpg",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "5da04a9b-5300-40c8-af50-3d9e40e3ed25",
+        "created_at": "2023-09-21T17:17:39.018Z",
+        "updated_at": "2023-09-21T10:50:59.049Z"
+      },
+      {
+        "id": "a41c1ae8-61cb-4b33-9a94-f94c285c26fa",
+        "created_at": "2023-09-21T09:46:41.709Z",
+        "updated_at": "2023-09-21T03:55:47.933Z"
+      },
+      {
+        "id": "ebb8e762-daa8-4f14-a994-0751adddb2c7",
+        "created_at": "2023-09-21T13:28:25.181Z",
+        "updated_at": "2023-09-21T12:39:07.050Z"
+      },
+      {
+        "id": "3dd88310-0f95-49e7-b9a5-e1bedfb1c78a",
+        "created_at": "2023-09-21T12:45:06.465Z",
+        "updated_at": "2023-09-21T13:21:27.078Z"
+      },
+      {
+        "id": "50018651-bec6-48db-a167-2ceb8ac4fee9",
+        "created_at": "2023-09-21T02:24:48.350Z",
+        "updated_at": "2023-09-21T14:42:36.541Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "e6cfdb56-ac42-4ec0-a9c2-dd71843e196e",
+        "created_at": "2023-09-21T14:46:04.273Z",
+        "updated_at": "2023-09-21T00:45:55.275Z"
+      },
+      {
+        "id": "70f681a6-afca-4742-b7a6-c1e61a4c1f60",
+        "created_at": "2023-09-21T09:37:37.329Z",
+        "updated_at": "2023-09-21T11:21:05.452Z"
+      },
+      {
+        "id": "9914847c-4f01-4d4a-af5d-1aac1301f203",
+        "created_at": "2023-09-20T23:49:36.933Z",
+        "updated_at": "2023-09-21T03:49:24.386Z"
+      },
+      {
+        "id": "16fd0fb9-37ff-491b-bdda-2ddbc526b49d",
+        "created_at": "2023-09-21T17:47:03.687Z",
+        "updated_at": "2023-09-21T11:42:51.913Z"
+      },
+      {
+        "id": "9bf61a5b-ff2c-45f5-9aa4-1e302045dafa",
+        "created_at": "2023-09-21T05:57:20.558Z",
+        "updated_at": "2023-09-21T03:29:56.035Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "5f4e03fa-a3b0-4e45-93e4-f73e9e8e2941",
+        "created_at": "2023-09-21T10:06:51.108Z",
+        "updated_at": "2023-09-21T06:14:34.580Z"
+      },
+      {
+        "id": "46832636-7900-424a-8de2-b9d6df946b26",
+        "created_at": "2023-09-21T01:40:49.564Z",
+        "updated_at": "2023-09-21T05:16:29.157Z"
+      },
+      {
+        "id": "81d42915-a198-4d3d-aa91-b269a2608a7d",
+        "created_at": "2023-09-21T12:00:22.427Z",
+        "updated_at": "2023-09-20T22:15:29.127Z"
+      },
+      {
+        "id": "ab39fb3b-3c89-4c97-a181-379d4e1af45f",
+        "created_at": "2023-09-21T14:11:12.231Z",
+        "updated_at": "2023-09-20T22:18:15.358Z"
+      },
+      {
+        "id": "b78a9aba-7832-4daf-bc3c-5759f479d78f",
+        "created_at": "2023-09-21T12:37:05.602Z",
+        "updated_at": "2023-09-21T14:08:39.082Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "ffe0d0c8-228b-4e4d-8607-03c5509d0721",
+        "created_at": "2023-09-21T05:00:51.317Z",
+        "updated_at": "2023-09-21T00:50:06.243Z"
+      },
+      {
+        "id": "4968d54d-f3ab-493d-ba8a-f1c64e3c8d0b",
+        "created_at": "2023-09-21T15:34:06.774Z",
+        "updated_at": "2023-09-21T19:37:00.620Z"
+      },
+      {
+        "id": "3b7a831a-0b1b-4ab4-8874-4014370ae67e",
+        "created_at": "2023-09-20T22:41:06.012Z",
+        "updated_at": "2023-09-21T02:34:02.719Z"
+      },
+      {
+        "id": "ca431772-4648-4b4d-8953-3b328912473c",
+        "created_at": "2023-09-20T21:00:14.852Z",
+        "updated_at": "2023-09-21T10:51:38.748Z"
+      },
+      {
+        "id": "1e52b579-10f0-4f97-85a7-8ad4a8c7c686",
+        "created_at": "2023-09-21T11:06:27.767Z",
+        "updated_at": "2023-09-21T07:04:52.695Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "5f0aa153-13b4-4ef4-9448-1fc48d31362c",
+        "created_at": "2023-09-21T09:34:36.333Z",
+        "updated_at": "2023-09-21T02:34:46.542Z",
+        "account_balance": 0.8885681065730751,
+        "account_type": "Savings",
+        "interest_rate": 0.9985641322564334,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "9a39c53f-e4ac-4444-8304-d0ed69e08a80",
+        "created_at": "2023-09-21T18:35:52.043Z",
+        "updated_at": "2023-09-21T13:46:38.199Z",
+        "account_balance": 0.9505824551451951,
+        "account_type": "Checking",
+        "interest_rate": 0.7542941474821419,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "f7a40a3a-6087-450c-a19b-a214441761b6",
+        "created_at": "2023-09-21T11:43:39.448Z",
+        "updated_at": "2023-09-20T23:40:56.532Z",
+        "account_balance": 0.4345374892000109,
+        "account_type": "Investment",
+        "interest_rate": 0.07657536189071834,
+        "account_number": "2468135790",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "6cbaa518-8206-41bb-b8d9-106ece36ae67",
+        "created_at": "2023-09-21T15:48:01.209Z",
+        "updated_at": "2023-09-21T12:47:07.328Z",
+        "account_balance": 0.08044742560014129,
+        "account_type": "Business",
+        "interest_rate": 0.27141364431008697,
+        "account_number": "1357924680",
+        "account_status": "Pending",
+        "account_owner": "Emily Jones"
+      },
+      {
+        "id": "0f18e83a-cd91-4626-98da-b9fc0308f193",
+        "created_at": "2023-09-20T23:26:49.531Z",
+        "updated_at": "2023-09-21T19:43:35.747Z",
+        "account_balance": 0.5296399728395045,
+        "account_type": "Joint",
+        "interest_rate": 0.02469137799926102,
+        "account_number": "9876543210",
+        "account_status": "Closed",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "b41b0c2c-a13d-402d-bd1f-2e575bf8020b",
+        "email": "Vesta_Lueilwitz52@roq.tech",
+        "firstName": "Lisette",
+        "lastName": "Considine",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/424.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c82e0ca3-aaa3-4f43-b943-4ef5972c9bd8",
+        "email": "Joel.Cummings11@roq.tech",
+        "firstName": "Zora",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/485.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "2d319f7b-d092-43ce-8d44-7d4c4e37978c",
+        "email": "Adalberto_Schmidt-Ebert98@roq.tech",
+        "firstName": "Emilie",
+        "lastName": "Pouros-VonRueden",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1224.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "8ea45bae-79ad-4dd2-88c6-a2e1b5aca3bc",
+        "email": "Elisabeth.Toy@roq.tech",
+        "firstName": "Nicholaus",
+        "lastName": "Spinka",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/33472000",
+        "tenantId": null
+      },
+      {
+        "reference": "5e99bfd7-9b51-494c-8d7c-498f81471d59",
+        "email": "Alisha.Bogan96@roq.tech",
+        "firstName": "Gerhard",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/58608509",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "e3ac9669-183f-4199-9e7b-534b05639ecc",
+        "created_at": "2023-09-21T08:05:37.268Z",
+        "updated_at": "2023-09-21T04:07:48.096Z"
+      },
+      {
+        "id": "e007a679-1bb8-41ee-a7d9-1decec90aa4a",
+        "created_at": "2023-09-21T14:53:48.750Z",
+        "updated_at": "2023-09-21T15:54:25.991Z"
+      },
+      {
+        "id": "8b5ace0f-2516-4122-a943-46f6dfae8cf8",
+        "created_at": "2023-09-21T00:33:48.308Z",
+        "updated_at": "2023-09-21T17:23:09.546Z"
+      },
+      {
+        "id": "4cca6ffc-f912-42b0-8d2e-2bd53fc8d222",
+        "created_at": "2023-09-21T14:07:20.574Z",
+        "updated_at": "2023-09-21T07:08:33.722Z"
+      },
+      {
+        "id": "41abcde1-0142-47ad-8be0-34bb70f3136b",
+        "created_at": "2023-09-20T21:31:08.812Z",
+        "updated_at": "2023-09-21T06:48:49.032Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "fc7fc569-482b-4f1a-9c74-5abe0e0a263f",
+        "created_at": "2023-09-21T16:15:27.975Z",
+        "updated_at": "2023-09-21T03:59:15.465Z"
+      },
+      {
+        "id": "9955246a-95a4-439f-9225-c5a3774e0e5c",
+        "created_at": "2023-09-21T08:03:32.030Z",
+        "updated_at": "2023-09-21T04:15:41.295Z"
+      },
+      {
+        "id": "35682cdb-8805-4938-91af-1b2df99b3ac1",
+        "created_at": "2023-09-21T08:10:11.159Z",
+        "updated_at": "2023-09-21T16:48:13.728Z"
+      },
+      {
+        "id": "a4593276-61a7-42d6-893c-4c97fa0aca67",
+        "created_at": "2023-09-21T09:29:16.504Z",
+        "updated_at": "2023-09-21T08:06:32.798Z"
+      },
+      {
+        "id": "87b89638-3ed7-499f-bf5c-9e0056542bc7",
+        "created_at": "2023-09-21T08:16:08.178Z",
+        "updated_at": "2023-09-20T21:02:32.056Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "3cad713f-bd3c-4dfd-ba54-0328327499d8",
+        "created_at": "2023-09-21T19:24:08.303Z",
+        "updated_at": "2023-09-20T23:19:43.957Z"
+      },
+      {
+        "id": "5073d7d0-59ec-4772-87f7-b113e83dec68",
+        "created_at": "2023-09-21T06:41:01.303Z",
+        "updated_at": "2023-09-20T20:29:21.621Z"
+      },
+      {
+        "id": "a91a477c-48e0-4c9a-a0c1-681e789a7a20",
+        "created_at": "2023-09-21T06:06:08.812Z",
+        "updated_at": "2023-09-21T09:04:11.352Z"
+      },
+      {
+        "id": "1d4c7714-29b1-4745-ba2c-697f4d05568d",
+        "created_at": "2023-09-21T12:06:13.626Z",
+        "updated_at": "2023-09-20T21:57:40.586Z"
+      },
+      {
+        "id": "5e67b45b-8125-45aa-a71b-ceb9c7d4207f",
+        "created_at": "2023-09-21T17:21:48.888Z",
+        "updated_at": "2023-09-21T06:32:13.846Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "00a8ad24-3bbe-4a45-9f3a-817d1a4ebd47",
+        "created_at": "2023-09-21T03:57:56.646Z",
+        "updated_at": "2023-09-21T04:24:07.683Z"
+      },
+      {
+        "id": "7f7b254d-7228-4784-a41b-430b42911bab",
+        "created_at": "2023-09-21T07:12:33.254Z",
+        "updated_at": "2023-09-21T03:50:23.009Z"
+      },
+      {
+        "id": "e526930c-9040-4139-915d-f7c987594b33",
+        "created_at": "2023-09-21T17:30:09.658Z",
+        "updated_at": "2023-09-21T07:52:37.810Z"
+      },
+      {
+        "id": "c2f5994f-d313-4678-81a6-66ddaa90f74a",
+        "created_at": "2023-09-21T05:17:00.669Z",
+        "updated_at": "2023-09-21T10:51:24.257Z"
+      },
+      {
+        "id": "451b3b9f-2d8f-4417-9dc1-b2e5701c52f9",
+        "created_at": "2023-09-21T02:47:47.952Z",
+        "updated_at": "2023-09-21T11:08:15.503Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "c2b05f31-5f90-473c-9523-2ff06558d007",
+        "created_at": "2023-09-21T12:01:53.534Z",
+        "updated_at": "2023-09-21T10:55:08.223Z",
+        "account_balance": 0.17669925303198397,
+        "account_type": "Savings",
+        "interest_rate": 0.5683934523258358,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "5785d192-31bc-47d7-b47a-f2e8b010dcb1",
+        "created_at": "2023-09-21T11:51:43.536Z",
+        "updated_at": "2023-09-21T08:41:02.021Z",
+        "account_balance": 0.8452647221274674,
+        "account_type": "Checking",
+        "interest_rate": 0.8826485555619001,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "e93e332d-4df6-4602-8c61-dd452502fc8c",
+        "created_at": "2023-09-21T18:55:30.971Z",
+        "updated_at": "2023-09-21T01:01:27.932Z",
+        "account_balance": 0.1445081657730043,
+        "account_type": "Business",
+        "interest_rate": 0.3465411704964936,
+        "account_number": "5678901234",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "b383746e-f3f4-495e-900a-55515d58b012",
+        "created_at": "2023-09-21T17:42:27.983Z",
+        "updated_at": "2023-09-21T01:26:19.763Z",
+        "account_balance": 0.22353376471437514,
+        "account_type": "Joint",
+        "interest_rate": 0.050064956303685904,
+        "account_number": "4321098765",
+        "account_status": "Pending",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "959d02d7-162d-4acb-9416-9d4fd0245739",
+        "created_at": "2023-09-21T11:20:54.060Z",
+        "updated_at": "2023-09-21T15:35:46.333Z",
+        "account_balance": 0.9721599414478987,
+        "account_type": "Investment",
+        "interest_rate": 0.8824151903390884,
+        "account_number": "9876543210",
+        "account_status": "Closed",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "ebb35c8a-6671-4a80-9089-366ce7382db9",
+        "email": "Dax13@roq.tech",
+        "firstName": "Jarred",
+        "lastName": "Johnston",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/81230560",
+        "tenantId": null
+      },
+      {
+        "reference": "d1eaf4e1-6c17-4ce3-8b35-c45a3116a564",
+        "email": "Margaret.Kautzer@roq.tech",
+        "firstName": "Hayden",
+        "lastName": "Gleichner",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/263.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "c6039f01-51cd-4012-9a92-100b601679ce",
+        "email": "Lina.Nicolas32@roq.tech",
+        "firstName": "Broderick",
+        "lastName": "Champlin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/55148688",
+        "tenantId": null
+      },
+      {
+        "reference": "8b816f1e-8b84-4208-87d4-1c7650028f20",
+        "email": "Franco_Bednar36@roq.tech",
+        "firstName": "Nicolas",
+        "lastName": "Rempel",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/76796004",
+        "tenantId": null
+      },
+      {
+        "reference": "ff6f6b4b-bdc9-4cc9-bbd0-de1874cbd371",
+        "email": "Roslyn_Haley@roq.tech",
+        "firstName": "Douglas",
+        "lastName": "Windler",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/87269065",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "810f5b27-cbbf-4362-9c12-878ab096e38b",
+        "created_at": "2023-09-21T00:24:03.270Z",
+        "updated_at": "2023-09-21T14:59:10.312Z"
+      },
+      {
+        "id": "382ba98a-1d8b-46bc-a32c-ec48ed06669a",
+        "created_at": "2023-09-21T00:42:30.488Z",
+        "updated_at": "2023-09-20T23:12:05.150Z"
+      },
+      {
+        "id": "31c91fa6-178d-487c-a95d-71f4d222d95d",
+        "created_at": "2023-09-20T22:13:49.928Z",
+        "updated_at": "2023-09-21T18:10:30.731Z"
+      },
+      {
+        "id": "903587b2-21b6-46a0-b4f7-8dc058451afe",
+        "created_at": "2023-09-20T23:54:31.712Z",
+        "updated_at": "2023-09-21T10:17:26.202Z"
+      },
+      {
+        "id": "b369883d-5673-4698-8126-6fd5d2b9e402",
+        "created_at": "2023-09-21T11:26:28.771Z",
+        "updated_at": "2023-09-20T23:22:59.876Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "87582b9d-7056-4a19-a9a8-a6391309bd52",
+        "created_at": "2023-09-21T15:01:40.192Z",
+        "updated_at": "2023-09-21T18:40:22.473Z"
+      },
+      {
+        "id": "0f5fb29d-c482-40a4-beb4-1849ea7312e5",
+        "created_at": "2023-09-21T10:04:12.234Z",
+        "updated_at": "2023-09-21T06:04:42.379Z"
+      },
+      {
+        "id": "8b10388c-95b0-4d81-9c0e-18aa333e1256",
+        "created_at": "2023-09-21T18:55:17.272Z",
+        "updated_at": "2023-09-21T07:35:29.243Z"
+      },
+      {
+        "id": "67ce2e08-d124-4252-8982-cb28d398008c",
+        "created_at": "2023-09-21T11:21:48.080Z",
+        "updated_at": "2023-09-21T05:53:30.741Z"
+      },
+      {
+        "id": "1cf2f682-a2e0-4820-a109-6f47ed659116",
+        "created_at": "2023-09-21T18:22:30.001Z",
+        "updated_at": "2023-09-20T23:22:56.097Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "a40c19dc-7779-433c-bb17-9997106cdc7d",
+        "created_at": "2023-09-21T06:35:05.785Z",
+        "updated_at": "2023-09-21T12:54:27.909Z"
+      },
+      {
+        "id": "36b37deb-31c0-4780-a2c2-22a2f3455bea",
+        "created_at": "2023-09-21T06:27:06.379Z",
+        "updated_at": "2023-09-21T12:20:58.976Z"
+      },
+      {
+        "id": "9e63bb59-d8a8-41ae-8860-3a5498584ccc",
+        "created_at": "2023-09-21T07:20:16.093Z",
+        "updated_at": "2023-09-21T07:41:49.964Z"
+      },
+      {
+        "id": "f7036a0b-8fa1-497d-adca-d611653981d3",
+        "created_at": "2023-09-21T13:14:03.590Z",
+        "updated_at": "2023-09-20T23:52:55.996Z"
+      },
+      {
+        "id": "37aa520e-f7cd-409e-aeba-03e8ba3ec32e",
+        "created_at": "2023-09-21T07:46:53.582Z",
+        "updated_at": "2023-09-20T21:14:15.323Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "53e245bd-5a52-43dc-987b-d5193db3a251",
+        "created_at": "2023-09-20T22:42:02.453Z",
+        "updated_at": "2023-09-21T16:24:56.295Z"
+      },
+      {
+        "id": "fd34e355-9e08-4c19-8c64-7e49f3ba5bab",
+        "created_at": "2023-09-21T11:33:58.651Z",
+        "updated_at": "2023-09-21T00:24:36.795Z"
+      },
+      {
+        "id": "629ce5af-27d2-44a0-b4e0-a1cc3f7a27f1",
+        "created_at": "2023-09-21T10:07:06.037Z",
+        "updated_at": "2023-09-21T12:05:30.072Z"
+      },
+      {
+        "id": "52797c93-88e4-4dc0-b424-1f5d7ff7973e",
+        "created_at": "2023-09-21T13:15:08.435Z",
+        "updated_at": "2023-09-21T08:20:25.053Z"
+      },
+      {
+        "id": "0ecde18c-fe44-49eb-ac3e-06c8da21b3ff",
+        "created_at": "2023-09-21T12:12:11.352Z",
+        "updated_at": "2023-09-21T02:32:28.216Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "946fd711-5965-4f0f-9fa1-f3bdb61c4a6d",
+        "created_at": "2023-09-21T15:35:55.444Z",
+        "updated_at": "2023-09-21T08:58:11.614Z",
+        "account_balance": 0.9274355827365071,
+        "account_type": "Savings",
+        "interest_rate": 0.436482414836064,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "02731a32-9882-4505-b590-97c60558d832",
+        "created_at": "2023-09-21T00:51:23.595Z",
+        "updated_at": "2023-09-21T02:43:25.132Z",
+        "account_balance": 0.2698665529023856,
+        "account_type": "Checking",
+        "interest_rate": 0.015183355659246445,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "a230a01c-7781-45a2-a79f-d4180a728178",
+        "created_at": "2023-09-21T03:24:50.599Z",
+        "updated_at": "2023-09-21T11:26:32.442Z",
+        "account_balance": 0.8228847265709192,
+        "account_type": "Investment",
+        "interest_rate": 0.1683954382315278,
+        "account_number": "2468135790",
+        "account_status": "Blocked",
+        "account_owner": "Michael Brown"
+      },
+      {
+        "id": "95a97f18-0be6-43d6-8ca3-3344d4570d3e",
+        "created_at": "2023-09-21T18:33:56.897Z",
+        "updated_at": "2023-09-21T00:20:43.572Z",
+        "account_balance": 0.6127775351051241,
+        "account_type": "Business",
+        "interest_rate": 0.0642446109559387,
+        "account_number": "1357924680",
+        "account_status": "Frozen",
+        "account_owner": "Sarah Jones"
+      },
+      {
+        "id": "648db069-92a5-44b7-8137-f461ff8b21d2",
+        "created_at": "2023-09-21T01:46:29.660Z",
+        "updated_at": "2023-09-21T09:12:28.597Z",
+        "account_balance": 0.8500889514107257,
+        "account_type": "Joint",
+        "interest_rate": 0.8324281924869865,
+        "account_number": "9876543210",
+        "account_status": "Closed",
+        "account_owner": "David Wilson"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "57d953cd-602e-46eb-a8af-32173cc89e9b",
+        "email": "Stefanie41@roq.tech",
+        "firstName": "Carissa",
+        "lastName": "Cremin",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/31302684",
+        "tenantId": null
+      },
+      {
+        "reference": "e3d1e3bd-689e-433b-9d6f-c8805b4ac2ad",
+        "email": "Lauren_Cummings72@roq.tech",
+        "firstName": "Katelynn",
+        "lastName": "Shanahan",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/16406638",
+        "tenantId": null
+      },
+      {
+        "reference": "ed2c13dc-9fc1-4349-b936-09f0dcb82ced",
+        "email": "Ryan27@roq.tech",
+        "firstName": "Daryl",
+        "lastName": "Murphy",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/1172.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "9b3b64e3-0101-4263-bd7b-13d9ac6a4bf4",
+        "email": "Jett32@roq.tech",
+        "firstName": "Maverick",
+        "lastName": "Schuster",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/19262475",
+        "tenantId": null
+      },
+      {
+        "reference": "4a2d396d-7843-48e9-a4b5-c6072ce28b76",
+        "email": "Marco_Nienow@roq.tech",
+        "firstName": "Caterina",
+        "lastName": "Bogisich",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/20701776",
+        "tenantId": null
+      }
+    ]
+  },
+  {
+    "user_profile": [
+      {
+        "id": "9c7480c5-95d3-4357-b347-fa2ec0133894",
+        "created_at": "2023-09-21T01:46:58.751Z",
+        "updated_at": "2023-09-20T20:05:30.800Z"
+      },
+      {
+        "id": "7228af71-e2ba-4acd-8343-22f50ed3efaf",
+        "created_at": "2023-09-21T19:38:18.573Z",
+        "updated_at": "2023-09-21T00:24:55.334Z"
+      },
+      {
+        "id": "8f8b3880-0faf-4f73-987e-55910edab84c",
+        "created_at": "2023-09-21T19:57:32.759Z",
+        "updated_at": "2023-09-21T11:33:35.311Z"
+      },
+      {
+        "id": "fa709f29-052f-4cb6-a807-7d49694fdf42",
+        "created_at": "2023-09-21T10:43:08.369Z",
+        "updated_at": "2023-09-21T07:09:58.916Z"
+      },
+      {
+        "id": "0561a7e0-ef02-4bc6-bddf-bd44c6d715da",
+        "created_at": "2023-09-21T16:13:19.863Z",
+        "updated_at": "2023-09-21T00:44:41.742Z"
+      }
+    ],
+    "transaction_history": [
+      {
+        "id": "85be71df-dec4-46dc-9746-0647782bd9e0",
+        "created_at": "2023-09-20T23:15:12.547Z",
+        "updated_at": "2023-09-20T21:26:28.166Z"
+      },
+      {
+        "id": "5c3893e9-c209-497c-b660-9ab29125bd2a",
+        "created_at": "2023-09-21T04:03:09.296Z",
+        "updated_at": "2023-09-21T04:26:13.198Z"
+      },
+      {
+        "id": "7add97c2-2020-40d8-b285-d266686554e0",
+        "created_at": "2023-09-21T17:20:08.989Z",
+        "updated_at": "2023-09-21T13:08:43.741Z"
+      },
+      {
+        "id": "fe72e234-49bd-4094-82b9-4019325941bb",
+        "created_at": "2023-09-21T06:44:47.481Z",
+        "updated_at": "2023-09-21T07:26:39.929Z"
+      },
+      {
+        "id": "89d9cf9d-b0b1-4d79-a311-adc6737142d4",
+        "created_at": "2023-09-21T13:39:19.381Z",
+        "updated_at": "2023-09-21T17:25:43.937Z"
+      }
+    ],
+    "crypto_wallet": [
+      {
+        "id": "a2e8eeae-727f-4ee2-91bc-35e1abeb787d",
+        "created_at": "2023-09-21T19:22:34.163Z",
+        "updated_at": "2023-09-21T05:32:24.255Z"
+      },
+      {
+        "id": "143d02b9-8eec-49b0-b517-fef64a6ff018",
+        "created_at": "2023-09-21T14:03:08.331Z",
+        "updated_at": "2023-09-21T16:40:15.717Z"
+      },
+      {
+        "id": "fa0acd98-f1f5-494c-a1ef-8b1a2f7ed42d",
+        "created_at": "2023-09-21T15:54:20.390Z",
+        "updated_at": "2023-09-21T16:04:20.018Z"
+      },
+      {
+        "id": "f309f4fb-549e-4f59-b914-095b629ab578",
+        "created_at": "2023-09-21T14:17:29.349Z",
+        "updated_at": "2023-09-21T09:05:27.258Z"
+      },
+      {
+        "id": "94e98546-701b-4064-99a2-3620b4990e74",
+        "created_at": "2023-09-21T10:03:28.519Z",
+        "updated_at": "2023-09-21T03:23:36.465Z"
+      }
+    ],
+    "crypto_transaction": [
+      {
+        "id": "02c16854-3a7c-4175-a2bb-f11096632cd2",
+        "created_at": "2023-09-21T02:09:28.289Z",
+        "updated_at": "2023-09-20T21:31:50.622Z"
+      },
+      {
+        "id": "a0f7fcdb-0fac-419e-a9a3-cb40d146b64a",
+        "created_at": "2023-09-21T08:08:09.940Z",
+        "updated_at": "2023-09-21T10:46:06.478Z"
+      },
+      {
+        "id": "fc8142b2-be4f-46fb-abe5-4cc77271a005",
+        "created_at": "2023-09-20T22:00:05.141Z",
+        "updated_at": "2023-09-21T13:02:31.079Z"
+      },
+      {
+        "id": "3342084a-6ee9-4010-b417-c810d0abbc44",
+        "created_at": "2023-09-21T17:07:02.354Z",
+        "updated_at": "2023-09-21T04:19:00.606Z"
+      },
+      {
+        "id": "fb015992-6ad8-4140-8295-58dc84be6a47",
+        "created_at": "2023-09-21T16:37:26.184Z",
+        "updated_at": "2023-09-21T10:26:04.216Z"
+      }
+    ],
+    "bank_account": [
+      {
+        "id": "14f8c4d8-5fdb-4984-a32d-e5b588aaaeb5",
+        "created_at": "2023-09-21T12:23:39.167Z",
+        "updated_at": "2023-09-21T07:32:16.146Z",
+        "account_balance": 0.37821469036862254,
+        "account_type": "Savings",
+        "interest_rate": 0.47256724745966494,
+        "account_number": "1234567890",
+        "account_status": "Active",
+        "account_owner": "John Doe"
+      },
+      {
+        "id": "d084054e-91b6-4389-8bd2-96bb88525f5e",
+        "created_at": "2023-09-21T12:41:04.053Z",
+        "updated_at": "2023-09-21T04:11:47.088Z",
+        "account_balance": 0.7452374002896249,
+        "account_type": "Checking",
+        "interest_rate": 0.6326798917725682,
+        "account_number": "0987654321",
+        "account_status": "Inactive",
+        "account_owner": "Jane Smith"
+      },
+      {
+        "id": "42d9c242-3bab-49c1-9357-b6a108dc3fe5",
+        "created_at": "2023-09-21T19:50:30.174Z",
+        "updated_at": "2023-09-21T10:37:03.285Z",
+        "account_balance": 0.8948239926248789,
+        "account_type": "Business",
+        "interest_rate": 0.06358596589416265,
+        "account_number": "2468135790",
+        "account_status": "Blocked",
+        "account_owner": "Michael Johnson"
+      },
+      {
+        "id": "42a5e449-27f0-47b6-8267-bca919c00f2b",
+        "created_at": "2023-09-20T21:46:09.742Z",
+        "updated_at": "2023-09-21T00:05:51.597Z",
+        "account_balance": 0.5719150353688747,
+        "account_type": "Investment",
+        "interest_rate": 0.385372327407822,
+        "account_number": "1357924680",
+        "account_status": "Pending",
+        "account_owner": "Sarah Wilson"
+      },
+      {
+        "id": "00c987f5-e2c1-4fdf-b9cb-1c04c5fa2c31",
+        "created_at": "2023-09-21T13:59:57.161Z",
+        "updated_at": "2023-09-21T09:33:21.729Z",
+        "account_balance": 0.800132874166593,
+        "account_type": "Joint",
+        "interest_rate": 0.14972266694530845,
+        "account_number": "9876543210",
+        "account_status": "Closed",
+        "account_owner": "David Brown"
+      }
+    ],
+    "roqUser": [
+      {
+        "reference": "190062a3-e110-4baa-8bb6-636938a8ef51",
+        "email": "Rex.Quitzon73@roq.tech",
+        "firstName": "Vernie",
+        "lastName": "O'Kon",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/25859925",
+        "tenantId": null
+      },
+      {
+        "reference": "3ef5d88a-b48f-4c09-b9ed-80e9ee24b76c",
+        "email": "Fletcher.Weissnat-Crona@roq.tech",
+        "firstName": "Novella",
+        "lastName": "Smith",
+        "active": true,
+        "avatarUrl": "https://avatars.githubusercontent.com/u/29943574",
+        "tenantId": null
+      },
+      {
+        "reference": "354c3739-184d-41e1-b3e3-b4aaa892f72d",
+        "email": "Dorcas9@roq.tech",
+        "firstName": "Gage",
+        "lastName": "O'Connell",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/739.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "a70a656b-c804-4c1d-b009-45ac9673b41a",
+        "email": "Waylon84@roq.tech",
+        "firstName": "Katrina",
+        "lastName": "Orn",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/245.jpg",
+        "tenantId": null
+      },
+      {
+        "reference": "e3747d60-8ef9-4e6c-a7de-f24cb9fbee9e",
+        "email": "Matilda60@roq.tech",
+        "firstName": "Dillon",
+        "lastName": "Tremblay",
+        "active": true,
+        "avatarUrl": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/55.jpg",
+        "tenantId": null
+      }
+    ]
+  }
+]
